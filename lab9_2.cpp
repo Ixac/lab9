@@ -36,7 +36,7 @@ int main(){
 	string name[N];
 	float score[N];	
 	
-	//Store names and scores of students into an array eiei
+	//Store names and scores of students into an array 
 	while(i < N){
 		cout << "Name of student " << i+1 << ": ";
 		
